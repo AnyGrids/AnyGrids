@@ -1,0 +1,23 @@
+{
+  "name": "anygrids",
+  "version": "0.0.2",
+  "description": "AnyGrids - JavaScript tool for visualizing any business data",
+  "main": "anygrids.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnyGrids/AnyGrids.git"
+  },
+  "keywords": [
+    "grid",
+    "data",
+    "tables",
+    "visualizing",
+    "charts"
+  ],
+  "author": "kaberton",
+  "bugs": {
+    "url": "https://github.com/AnyGrids/AnyGrids/issues"
+  },
+  "homepage": "https://github.com/AnyGrids/AnyGrids#readme"
+}
