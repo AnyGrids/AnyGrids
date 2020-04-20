@@ -9,7 +9,7 @@ By downloading or using AnyGirds tool for visualizing business data, you are agr
 
 1.3 You can freely use AnyGrids license for your or your client’s commercial project (adding to the commercial website, for example).
 
-1.4 It is forbidden to distribute, sublicense and sell copies of AnyGrids. Any reproduction or redistribution of our product not in accordance with the Licensing Terms is expressly prohibited by law and may result in severe civil and criminal penalties. In case you are interested to use the product for commercial distribution, please contact licensing@AnyGrids.com
+1.4 It is forbidden to distribute, sublicense and sell copies of AnyGrids. Any reproduction or redistribution of our product not in accordance with the Licensing Terms is expressly prohibited by law and may result in severe civil and criminal penalties. In case you are interested to use the product for commercial distribution, please contact support@anygrids.com
 
 2  INTELLECTUAL PROPERTY RIGHTS
 
