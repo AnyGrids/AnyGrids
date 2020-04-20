@@ -8,11 +8,11 @@ Start by installing AnyGrids as a node module and save it as a dependency in you
 npm install anygrids --save
 ```
 Then, include the JS file:
-```
+```html
 <script src="node_modules/anygrids/anygrids.js"></script>
 ```
 Now, you can create an instance of AnyGrids table:
-```
+```html
 <div id="anygrids">The component will appear here</div>
 <script>
     //JSON data example:
