@@ -16,28 +16,52 @@ Now, you can create an instance of AnyGrids table:
 <div id="anygrids">The component will appear here</div>
 <script>
     //JSON data example:
-    const data = [{
-            id: 7,
+    const data = [
+        {
+            id: 1,
             email: "michael.lawson@mail.in",
             first_name: "Michael",
             last_name: "Lawson",
             avatar: "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg",
-            linear: [0.25, 0.30, 0.45],
-            bar: [0.25, 0.30, 0.45],
+            linear: [0, 30, 5, 29, 34],
+            bar: [0, 30, 5, 29, 34],
             pie: [0.25, 0.30, 0.45],
             orders: 5,
         },
         {
-            id: 8,
+            id: 2,
             email: "lindsay.ferguson@mail.in",
             first_name: "Lindsay",
             last_name: "Ferguson",
             avatar: "https://s3.amazonaws.com/uifaces/faces/twitter/araa3185/128.jpg",
-            linear: [0.25, 0.30, 0.45],
-            bar: [0.25, 0.30, 0.45],
+            linear: [0, 30, 5, 29, 34],
+            bar: [0, 30, 5, 29, 34],
             pie: [0.25, 0.30, 0.45],
             orders: 25,
-        }];
+        },
+        {
+            id: 3,
+            email: "michael.lawson@mail.in",
+            first_name: "Michael",
+            last_name: "Lawson",
+            avatar: "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg",
+            linear: [0, 30, 5, 29, 34],
+            bar: [0, 30, 5, 29, 34],
+            pie: [0.25, 0.30, 0.45],
+            orders: 5,
+        },
+        {
+            id: 4,
+            email: "lindsay.ferguson@mail.in",
+            first_name: "Lindsay",
+            last_name: "Ferguson",
+            avatar: "https://s3.amazonaws.com/uifaces/faces/twitter/araa3185/128.jpg",
+            linear: [0, 30, 5, 29, 34],
+            bar: [0, 30, 5, 29, 34],
+            pie: [0.25, 0.30, 0.45],
+            orders: 25,
+        }
+    ];
 
     new AnyGrids({
         container: 'anygrids', //div id
