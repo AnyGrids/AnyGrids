@@ -42,6 +42,9 @@ Now, you can create an instance of AnyGrids table:
     new AnyGrids({
         container: 'anygrids', //div id
         data,
+        pagination: {
+            perPage: 2
+        },
         rows: {
             child: {
                 template: '<div><img src="avatar"> <div style="display:flex;">first_name last_name</div></div>pie_render'
