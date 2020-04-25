@@ -1,7 +1,7 @@
 {
   "name": "anygrids",
   "version": "0.0.10",
-  "description": "AnyGrids - JavaScript tool for visualizing any business data",
+  "description": "AnyGrids - Free JavaScript tool for visualizing any business data",
   "main": "anygrids.js",
   "scripts": {},
   "repository": {
