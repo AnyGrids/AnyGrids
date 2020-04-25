@@ -1,5 +1,5 @@
 # AnyGrids
-AnyGrids - JavaScript tool for visualizing any business data
+AnyGrids - Free JavaScript tool for visualizing any business data
 ## Resources
 [Live demo](https://anygrids.com)
 ## Installation and usage
@@ -25,6 +25,7 @@ Now, you can create an instance of AnyGrids table:
             linear: [0.25, 0.30, 0.45],
             bar: [0.25, 0.30, 0.45],
             pie: [0.25, 0.30, 0.45],
+            orders: 5,
         },
         {
             id: 8,
@@ -35,6 +36,7 @@ Now, you can create an instance of AnyGrids table:
             linear: [0.25, 0.30, 0.45],
             bar: [0.25, 0.30, 0.45],
             pie: [0.25, 0.30, 0.45],
+            orders: 25,
         }];
 
     new AnyGrids({
@@ -54,6 +56,7 @@ Now, you can create an instance of AnyGrids table:
             {field: 'linear', title: 'Linear', type: 'sparklines-linear', width: 150},
             {field: 'bar', title: 'Bar', type: 'sparklines-bar', width: 150},
             {field: 'pie', title: 'Pie', type: 'sparklines-pie', width: 150},
+            {field: 'orders', title: 'Orders', type: 'number', width: 150, total: {show: true, label: 'Total orders: '}},
         ]
     })
 </script> 
