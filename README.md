@@ -4,8 +4,8 @@ AnyGrids - Free JavaScript tool for visualizing any business data :v:
 ![npm](https://img.shields.io/npm/dw/anygrids) ![npm bundle size](https://img.shields.io/bundlephobia/min/anygrids)
 
 ## Resources
-[Live demo](https://anygrids.com)
-[twitter](https://twitter.com/AnyGrids)
+*[Live demo](https://anygrids.com)
+*[twitter](https://twitter.com/AnyGrids)
 ## Installation and usage
 Start by installing AnyGrids as a node module and save it as a dependency in your package.json:
 ```
